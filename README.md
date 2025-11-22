@@ -1,5 +1,5 @@
 # CCNA-Introduction-to-Networks
-# 📘 Cisco Networking Certification Repository
+#  Cisco Networking Certification Repository
 
 This repository contains my Cisco Networking Academy labs, Packet Tracer projects, configurations, network diagrams, and certification progress. It documents my learning journey toward the CCNA Certification with properly organized resources and lab files.
 
