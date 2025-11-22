@@ -83,10 +83,10 @@ network 10.0.0.0 0.0.0.255 area 0
 
 
 
-```markdown
+markdown
 <img width="1319" height="1018" alt="image" src="https://github.com/user-attachments/assets/844079fb-db52-42d4-bf0b-aa577596efc5" />
 
-```
+
 
 ---
 
